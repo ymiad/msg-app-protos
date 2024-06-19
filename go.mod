@@ -1,3 +1,3 @@
-module github.com/ymiad/msg-protos
+module github.com/ymiad/msg-app-protos
 
 go 1.22.4
